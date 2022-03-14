@@ -34,7 +34,7 @@ settings.scrollStepSize = 140;
 settings.tabsThreshold = 0;
 
 
-settings.blocklistPattern = /mail.google.com|remotedesktop.google.com|tradingview.com|tweetdeck.twitter.com|monkeytype.com|typing.com|jp.inoreader.com|calendar.google.com|rememberthemilk.co/;
+//settings.blocklistPattern = /mail.google.com|remotedesktop.google.com|tradingview.com|tweetdeck.twitter.com|monkeytype.com|typing.com|jp.inoreader.com|calendar.google.com|rememberthemilk.co/;
 
 
 settings.prevLinkRegex = /(\b(prev|previous)\b)|上页|上一页|前页|<<|«/i;
